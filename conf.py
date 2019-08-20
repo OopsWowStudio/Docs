@@ -94,5 +94,5 @@ html_sidebars = {
     ]
 }
 
-#html_favicon = 'favicon.ico'
-html_logo = '_static/image/Oops_Wow_logo.png'
+html_favicon = '_static/image/Oops_Wow_logo.ico'
+html_logo = '_static/image/Oops_Wow_logo.svg'
