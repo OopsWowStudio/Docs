@@ -20,8 +20,8 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'Oops Wow Studio'
-copyright = '2019, IAMLIUBO'
-author = 'IAMLIUBO'
+copyright = '2020, Oops Wow Studio'
+author = 'Oops Wow Studio'
 
 
 # The short X.Y version.
@@ -95,4 +95,4 @@ html_sidebars = {
 }
 
 html_favicon = '_static/image/Oops_Wow_logo.ico'
-html_logo = '_static/image/Oops_Wow_logo.svg'
+html_logo = '_static/image/Oops_Wow_logo.png'

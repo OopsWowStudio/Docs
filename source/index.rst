@@ -5,7 +5,7 @@ Welcome to Oops Wow Studio's documentation!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: ESP8266相关
+   :caption: B-Box
 
-   ESP8266下载器 <product_manual/ESP8266_Download_Tool_V2.0>
+   
    
